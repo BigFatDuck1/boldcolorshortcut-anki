@@ -1,0 +1,21 @@
+
+
+{
+  "keys":
+[
+  ["#ff0000", "Ctrl+Shift+R"],
+  ["#fa911f", "Ctrl+Shift+Alt+O"],
+  ["#ffff00", "Ctrl+Shift+Y"],
+  ["#008000", "Ctrl+Shift+G"],
+  ["#18f826", "Ctrl+Shift+L"],
+  ["#19afe1", "Ctrl+Shift+B"],
+  ["#624ceb", "Ctrl+Shift+P"],
+  ["#dbac54", "Ctrl+Shift+N"],
+  ["#FFFFFF", "Ctrl+Shift+W"],
+  ["#00fdb8", "Ctrl+Shift+D"]
+
+],
+
+  "bold": "on"
+
+}
