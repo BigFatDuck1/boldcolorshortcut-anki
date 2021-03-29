@@ -15,11 +15,11 @@ similar to the default Ctrl + B for bold or Ctrl + I for italic in the editor.
 The default configuration will turn the text red when Ctrl + Shift + R is pressed. You can add use other shortcut key
 names like Ctrl + M or F11 as well.
 
-You can toggle whether you want the text to be **bolded** 
+You can toggle whether you want the text to be **bolded**
 as well by changing the config.json file:
 ```"bold": "on"``` to ```"bold": "off"```.
 
-### Current default is: 
+### Current default is
 
 * **R**ed
 * **O**range (+ alt)
@@ -42,7 +42,7 @@ Colour names can be standard colour names like "red", or red/green/blue colour c
 Make sure the keyboard shortcut you have chosen does not overlap with other anki keyboard shortcuts, as those take
 precedent!
 
-_Credits_ <br>
+\
+_Credits_
+
 Based on Quick Colour Changing (https://ankiweb.net/shared/info/2491935955) <br>
-
-
