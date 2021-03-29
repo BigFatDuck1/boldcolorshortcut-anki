@@ -2,6 +2,8 @@
 
 _Change color of text **and** bold it quickly._
 
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screenshot.png)
+
 Simple anki addon for adding keyboard shortcuts to quickly changing the color of highlighted text, 
 similar to the default Ctrl + B for bold or Ctrl + I for italic in the editor.
 
