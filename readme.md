@@ -4,6 +4,8 @@ _Change color of text **and** bold it quickly._
 
 ![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screenshot.png)
 
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screencap.gif)
+
 ### Installation
 Easiest way is to get it here:
 https://ankiweb.net/shared/info/1759040096
@@ -42,7 +44,18 @@ Colour names can be standard colour names like "red", or red/green/blue colour c
 Make sure the keyboard shortcut you have chosen does not overlap with other anki keyboard shortcuts, as those take
 precedent!
 
+## Screenshots
+
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/adrenalcortex.png)
+
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/olfactorycortex.png)
+
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screenshot2.png)
+
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screenshot.png)
+
+
 \
 _Credits_
 
-Based on Quick Colour Changing (https://ankiweb.net/shared/info/2491935955) <br>
+Based on Quick Colour Changing (<https://ankiweb.net/shared/info/2491935955>)
