@@ -4,7 +4,7 @@ _Change color of text **and** bold it quickly._
 
 ![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screenshot.png)
 
-![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/screencap.gif)
+![Screenshot](https://github.com/BigFatDuck1/boldcolorshortcut-anki/blob/master/images/capture.gif)
 
 ### Installation
 Easiest way is to get it here:
