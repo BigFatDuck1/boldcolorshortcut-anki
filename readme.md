@@ -13,7 +13,7 @@ https://ankiweb.net/shared/info/1759040096
 
 ## Description
 
-Simple anki addon for adding keyboard shortcuts to quickly change the color of selected text, similar to the default `Ctrl + B` for **bold** or Ctrl + I for *italic* in the editor.
+Simple anki addon for adding keyboard shortcuts to quickly change the color of selected text, similar to the default `Ctrl + B` for **bold** or `Ctrl + I` for *italic* in the editor.
 
 The default configuration will turn the text red when Ctrl + Shift + R is pressed. You can add use other shortcut key
 names like Ctrl + M or F11 as well.
