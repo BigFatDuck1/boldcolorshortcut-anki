@@ -4,6 +4,6 @@
     "ankiweb_id": "1759040096",
     "author": "BigFatDuck1",
     "version": "v1.0",
-    "homepage": "https://github.com/BigFatDuck1/boldcolorshortcut-anki"
-
+    "homepage": "https://github.com/BigFatDuck1/boldcolorshortcut-anki",
+    "conflicts": "1178291236" 
 }
