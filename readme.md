@@ -9,7 +9,7 @@ _Change color of text **and** bold it quickly._
 ## Installation
 
 Easiest way to install is to get it here:
-https://ankiweb.net/shared/info/1759040096
+<https://ankiweb.net/shared/info/1759040096>
 
 ## Description
 
