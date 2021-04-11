@@ -4,15 +4,17 @@
   "keys":
 [
   ["#ff0000", "Ctrl+Shift+R"],
-  ["#fa911f", "Ctrl+Shift+Alt+O"],
+  ["#FFA500", "Ctrl+Shift+Alt+O"],
   ["#ffff00", "Ctrl+Shift+Y"],
-  ["#008000", "Ctrl+Shift+G"],
+  ["#0DB518", "Ctrl+Shift+G"],
   ["#18f826", "Ctrl+Shift+L"],
   ["#19afe1", "Ctrl+Shift+B"],
-  ["#624ceb", "Ctrl+Shift+P"],
+  ["#8B64D3", "Ctrl+Shift+P"],
   ["#dbac54", "Ctrl+Shift+N"],
   ["#FFFFFF", "Ctrl+Shift+W"],
-  ["#00fdb8", "Ctrl+Shift+D"]
+  ["#00fdb8", "Ctrl+Shift+D"],
+  ["#A3A3A3", "Ctrl+Shift+E"],
+  ["#FFADF5", "Ctrl+Shift+K"]
 
 ],
 
