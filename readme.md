@@ -34,6 +34,8 @@ as well by changing the config.json file:
 * Brow**n** (N)
 * **W**hite
 * Cyan (**D**)
+* Gr**e**y (E)
+* Pin**k** (K)
 
 Shortcut is `Ctrl + Shift + (First letter)`
 <br>
