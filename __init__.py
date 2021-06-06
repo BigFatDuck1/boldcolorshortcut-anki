@@ -22,7 +22,7 @@ def onSetupShortcuts(cuts, editor):
     for color_code, keyboard_shortcut in config['keys']:
         def append_function(hex_code):
             return updateColour(editor, hex_code)
-        append_this = partial(append_function,color_code)
-        cuts.append((keyboard_shortcut,append_this))
+        append_this = partial(append_function, color_code)
+        cuts.append((keyboard_shortcut, append_this))
 
 gui_hooks.editor_did_init_shortcuts.append(onSetupShortcuts)
